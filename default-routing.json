@@ -32,6 +32,7 @@
         "geosite:pinterest",
         "geosite:faceit",
         "domain:ozon.ru",
+        "regexp:\.ru$",
         "regexp:^([\\w\\-\\.]+\\.)ru$",
         "regexp:^([\\w\\-\\.]+\\.)su$",
         "regexp:^([\\w\\-\\.]+\\.)рф$",
